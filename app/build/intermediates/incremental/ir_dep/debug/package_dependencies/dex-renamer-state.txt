@@ -1,0 +1,4 @@
+#Wed May 01 10:28:24 GST 2019
+base.0=C\:\\Users\\Admin\\Desktop\\hajer's\\Qafela\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

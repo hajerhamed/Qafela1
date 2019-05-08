@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="trade.hajer.qafela">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo2"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".firstphase.StorePackage.StoreSetting">
+
+        </activity>
+        <activity android:name=".firstphase.SplashScreenActivity" >
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+        </activity>
+        <activity android:name=".firstphase.EnterActivity" />
+        <activity android:name=".firstphase.LoginActivity" />
+        <activity android:name=".firstphase.SignupActivity">
+
+        </activity>
+        <activity android:name=".firstphase.MainActivity" />
+        <activity android:name=".firstphase.ResetPasswordActivity" />
+    </application>
+
+</manifest>

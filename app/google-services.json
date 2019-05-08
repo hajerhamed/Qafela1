@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315826634573",
+    "firebase_url": "https://qafela-69a79.firebaseio.com",
+    "project_id": "qafela-69a79",
+    "storage_bucket": "qafela-69a79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315826634573:android:01d357a5342d9776",
+        "android_client_info": {
+          "package_name": "trade.hajer.qafela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315826634573-8cal9gpl9k8sn8moi0heb4ighnivtrni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trade.hajer.qafela",
+            "certificate_hash": "a21293804c15f760f8f5a72ca0706759d4aabc63"
+          }
+        },
+        {
+          "client_id": "315826634573-t56sht780bqegh4jra8vdv91kg5m2t9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6OAazVyyvxrg2ZMqL8Z_p3vFyfMql4XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315826634573-t56sht780bqegh4jra8vdv91kg5m2t9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
